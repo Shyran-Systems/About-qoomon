@@ -4,7 +4,7 @@
     <img width="08%" src="octocat.gif"/>
   </a>
   <a href="https://github.com/ryo-ma/github-profile-trophy#readme">
-    <img width="82%" src="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=7&margin-w=4"/>
+    <img width="81%" src="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=7&margin-w=4"/>
   </a>
   <a href="https://www.qoomon.me">
     <img width="08%" src="octocat.gif"/>
