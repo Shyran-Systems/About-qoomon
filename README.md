@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://www.qoomon.me">
-    <img width="08%" src="octocat.gif"/>
+    <a href="https://www.qoomon.me">
+    <img height="100" src="octocat.gif"/>
   </a>
 </p>
 <p align="center">
