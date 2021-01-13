@@ -2,7 +2,7 @@
   <img width="98.5%" src="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=7&margin-w=4&no-frame=true"/>
 </a>
   
-<h6></h6>
+<p></p>
   
 <p align="center">
   <a href="https://www.qoomon.me">
@@ -12,7 +12,6 @@
   <img width="7%" height="1px" src="transparent.png"/>
   </a>
 
-  
   <a href="https://github.com/anuraghazra/github-readme-stats#readme">
     <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qoomon&hide_title=true&layout=compact"/>
   </a> 
