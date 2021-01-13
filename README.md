@@ -9,7 +9,7 @@
   </a>
 
   <a href="#">
-  <img width="10%" height="1px" src="transparent.png"/>
+  <img width="8%" height="1px" src="transparent.png"/>
   </a>
 
   
@@ -18,7 +18,7 @@
   </a> 
   
   <a href="#">
-    <img width="10%" height="1px" src="transparent.png"/>
+    <img width="8%" height="1px" src="transparent.png"/>
   </a>
 
   <a href="https://www.qoomon.me">
