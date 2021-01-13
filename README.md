@@ -8,7 +8,7 @@
     <img width="16%" src="octocat.gif"/>
   </a>
 
-   <img width="12%" height="1px"/>
+   <img width="10%" height="1px" src="transparent.png"/>
 
   
   <a href="https://github.com/anuraghazra/github-readme-stats#readme">
@@ -16,7 +16,7 @@
   </a> 
   
   <a href="https://www.qoomon.me">
-    <img width="12%" height="1px"/>
+    <img width="10%" height="1px" src="transparent.png"/>
   </a>
 
    <img width="16%" src="octocat.gif"/>
