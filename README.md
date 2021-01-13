@@ -5,10 +5,10 @@
   
   
   <a href="https://www.qoomon.me">
-    <img width="9%" src="octocat.gif"/>
+    <img width="16%" src="octocat.gif"/>
   </a>
   <a href="https://www.qoomon.me">
-    <img width="10.5%" src="1x1-transparent.png"/>
+    <img width="12%" height="1px" src="1x1-transparent.png"/>
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats#readme">
@@ -16,10 +16,10 @@
   </a> 
   
   <a href="https://www.qoomon.me">
-    <img width="10.5%" src="1x1-transparent.png"/>
+    <img width="12%" height="1px" src="1x1-transparent.png"/>
   </a>
   <a href="https://www.qoomon.me">
-    <img width="9%" src="octocat.gif"/>
+    <img width="16%" src="octocat.gif"/>
   </a>
   
 </p>
