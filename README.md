@@ -1,10 +1,10 @@
-<a href="https://github.com/ryo-ma/github-profile-trophy#readme">
-  <img width="98.5%" src="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=7&margin-w=4&no-frame=true"/>
-</a>
-  
-<p></p>
-  
 <p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy#readme">
+    <img width="98.5%" src="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=7&margin-w=4&no-frame=true"/>
+  </a>
+  
+  <p></p>
+
   <a href="https://www.qoomon.me">
     <img width="16%" src="octocat.gif"/>
   </a>
