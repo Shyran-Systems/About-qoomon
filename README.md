@@ -8,18 +8,22 @@
     <img width="16%" src="octocat.gif"/>
   </a>
 
-   <img width="10%" height="1px" src="transparent.png"/>
+  <a href="#">
+  <img width="10%" height="1px" src="transparent.png"/>
+  </a>
 
   
   <a href="https://github.com/anuraghazra/github-readme-stats#readme">
     <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qoomon&hide_title=true&layout=compact"/>
   </a> 
   
-  <a href="https://www.qoomon.me">
+  <a href="#">
     <img width="10%" height="1px" src="transparent.png"/>
   </a>
 
-   <img width="16%" src="octocat.gif"/>
+  <a href="https://www.qoomon.me">
+    <img width="16%" src="octocat.gif"/>
+  </a>
 
   
 </p>
