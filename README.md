@@ -1,4 +1,3 @@
-<h6> </h6>
 <p align="center" style="margin-bottom: 0;">
   <a href="https://www.qoomon.me">
     <img width="9%" src="octocat.gif"/>
