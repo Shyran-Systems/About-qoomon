@@ -13,7 +13,7 @@
   </a>
 
   <a href="https://github.com/anuraghazra/github-readme-stats#readme">
-    <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qoomon&hide_title=true&layout=compact"/>
+    <img width="41.8%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qoomon&hide_title=true&layout=compact"/>
   </a> 
   
   <a href="#">
