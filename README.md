@@ -13,8 +13,8 @@
   </a>
 
   <a href="https://github.com/anuraghazra/github-readme-stats#readme">
-    <img width="41.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qoomon&hide_title=true&layout=compact"/>
-  </a> 
+    <img width="32%" src="https://github-readme-stats.vercel.app/api?username=qoomon&show_icons=true&hide_title=true&include_all_commits=true&hide_rank=true"/>
+  </a>
   
   <a href="#">
     <img width="7%" height="1px" src="transparent.png"/>
