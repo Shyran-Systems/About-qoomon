@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://www.qoomon.me">
-    <img width="16%" src="octocat.gif"/>
+    <img width="15%" src="octocat.gif"/>
   </a>
   <a href="#">
     <img width="5%" height="1px" src="transparent.png"/>
@@ -20,7 +20,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" 
         srcset="https://github-readme-stats.vercel.app/api?username=qoomon&show_icons=true&hide_title=true&include_all_commits=true&hide_rank=true&hide_border=true&theme=github_dark">
-      <img width="36%%" src="https://github-readme-stats.vercel.app/api?username=qoomon&show_icons=true&hide_title=true&include_all_commits=true&hide_rank=true&hide_border=true">
+      <img width="38%%" src="https://github-readme-stats.vercel.app/api?username=qoomon&show_icons=true&hide_title=true&include_all_commits=true&hide_rank=true&hide_border=true">
     </picture>
   </a>
   
@@ -28,6 +28,6 @@
     <img width="5%" height="1px" src="transparent.png"/>
   </a>
   <a href="https://www.qoomon.me">
-    <img width="16%" src="octocat.gif"/>
+    <img width="15%" src="octocat.gif"/>
   </a>
 </p>
