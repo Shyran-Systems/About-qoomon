@@ -1,6 +1,10 @@
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy#readme">
-    <img width="98.5%" src="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=7&margin-w=4&no-frame=true"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" 
+        srcset="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=7&margin-w=4&no-frame=true&theme=darkhub">
+      <img width="98.5%" src="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=7&margin-w=4&no-frame=true">
+    </picture>
   </a>
 </p>  
 
