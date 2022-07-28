@@ -1,4 +1,8 @@
-<a href="https://www.qoomon.me"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=qoomon&fontSize=32&animation=fadeIn&fontAlignY=30&desc=%F0%9F%8C%B3%20Go%20for%20it.&descSize=12&descAlignY=46&descAlign=54.5" width="100%"></a>
+<div align="center">
+  <a href="https://www.qoomon.me">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=qoomon&fontSize=32&animation=fadeIn&fontAlignY=30&desc=%F0%9F%8C%B3%20Go%20for%20it.&descSize=12&descAlignY=46&descAlign=54.5">
+  </a>
+</div>
 <div align="center">
   <!--- show all trophies: https://github-profile-trophy.vercel.app/?username=qoomon&column=-1 --->
   <a href="https://github.com/ryo-ma/github-profile-trophy#readme">
