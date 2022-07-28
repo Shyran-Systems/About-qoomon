@@ -1,5 +1,5 @@
 # 🌳&nbsp; Go for it.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.qoomon.me"><img height="64" src="octocat.gif"></a> 
-<div>
+<div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy#readme">
     <picture>
       <source media="(prefers-color-scheme: dark)" 
