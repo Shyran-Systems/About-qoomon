@@ -1,4 +1,4 @@
-# 🌳&nbsp; Go for it.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.qoomon.me"><img height="64" src="octocat.gif"></a> 
+# 🌳&nbsp; Go for it.&ensp; <a href="https://komarev.com/ghpvc"><img src="https://komarev.com/ghpvc/?username=qoomon&color=1f6fea&label=Views"></a>
 
 <div align="center">
   <br>
@@ -18,12 +18,7 @@
         srcset="https://github-readme-stats.vercel.app/api?username=qoomon&show_icons=true&hide_title=true&include_all_commits=true&hide_rank=true&hide_border=true&theme=github_dark">
       <img src="https://github-readme-stats.vercel.app/api?username=qoomon&show_icons=true&hide_title=true&include_all_commits=true&hide_rank=true&hide_border=true">
     </picture>
+    <a href="https://www.qoomon.me">
+      <img height="165" src="octocat.gif">
+    </a>&nbsp; 
 </a> 
-
-<br>
-<br>
-<p>
-  <a href="https://komarev.com/ghpvc">
-    <img src="https://komarev.com/ghpvc/?username=qoomon&color=1f6fea">
-  </a>
-</p>
