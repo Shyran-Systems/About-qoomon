@@ -55,10 +55,9 @@
     </picture>
   </a>
 </div>
-
-# 
+<br>
 <div align="center">
   <a href="https://www.qoomon.me">
-    <img height="165" src="octocat.gif">
+    <img height="64" src="octocat.gif">
   </a>
 </div> 
