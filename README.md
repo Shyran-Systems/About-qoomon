@@ -55,13 +55,8 @@
 </div>
 
 # 
-<a href="https://github.com/anuraghazra/github-readme-stats#readme">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" 
-        srcset="https://github-readme-stats.vercel.app/api?username=qoomon&show_icons=true&hide_title=true&include_all_commits=true&hide_rank=true&hide_border=true&theme=github_dark">
-      <img src="https://github-readme-stats.vercel.app/api?username=qoomon&show_icons=true&hide_title=true&include_all_commits=true&hide_rank=true&hide_border=true">
-    </picture>
-    <a href="https://www.qoomon.me">
-      <img height="165" src="octocat.gif">
-    </a>&nbsp; 
-</a> 
+<div align="center">
+  <a href="https://www.qoomon.me">
+    <img height="165" src="octocat.gif">
+  </a>
+</div> 
