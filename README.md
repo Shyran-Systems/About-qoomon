@@ -55,7 +55,7 @@
     </picture>
   </a>
 </div>
-<br>
+<br><br>
 <div align="center">
   <a href="https://www.qoomon.me">
     <img height="64" src="octocat.gif">
