@@ -1,42 +1,29 @@
-# 🌳&nbsp; Go for it.
-
-<p align="center">
+# 🌳&nbsp; Go for it.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.qoomon.me"><img height="64" src="octocat.gif"></a> 
+<br>
+<div>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/ryo-ma/github-profile-trophy#readme">
     <picture>
       <source media="(prefers-color-scheme: dark)" 
-        srcset="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=7&margin-w=4&no-frame=true&theme=darkhub">
-      <img width="98.5%" src="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=7&margin-w=4&no-frame=true">
+        srcset="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=7&margin-w=24&margin-h=24&no-frame=true&theme=darkhub">
+      <img src="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=7&margin-w=24&margin-h=24&no-frame=true">
     </picture>
   </a>
-</p>  
+</div>  
 
-<p align="center">
-  <a href="https://www.qoomon.me">
-    <img width="15%" src="octocat.gif"/>
-  </a>
-  <a href="#">
-    <img width="5%" height="1px" src="transparent.png"/>
-  </a>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats#readme">
+# 
+<a href="https://github.com/anuraghazra/github-readme-stats#readme">
     <picture>
       <source media="(prefers-color-scheme: dark)" 
         srcset="https://github-readme-stats.vercel.app/api?username=qoomon&show_icons=true&hide_title=true&include_all_commits=true&hide_rank=true&hide_border=true&theme=github_dark">
-      <img width="38%%" src="https://github-readme-stats.vercel.app/api?username=qoomon&show_icons=true&hide_title=true&include_all_commits=true&hide_rank=true&hide_border=true">
+      <img src="https://github-readme-stats.vercel.app/api?username=qoomon&show_icons=true&hide_title=true&include_all_commits=true&hide_rank=true&hide_border=true">
     </picture>
-  </a>
-  
-  <a href="#">
-    <img width="5%" height="1px" src="transparent.png"/>
-  </a>
-  <a href="https://www.qoomon.me">
-    <img width="15%" src="octocat.gif"/>
+</a> 
+
+<br>
+<br>
+<p>
+  <a href="https://komarev.com/ghpvc">
+    <img src="https://komarev.com/ghpvc/?username=qoomon&color=1f6fea">
   </a>
 </p>
-
-<p align="right">
-  <a href="https://stackoverflow.com/users/4868262">
-    <img src="https://komarev.com/ghpvc/?username=qoomon">
-  </a>
-</p>
-
