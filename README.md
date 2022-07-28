@@ -1,10 +1,11 @@
 # 🌳&nbsp; Go for it.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.qoomon.me"><img height="64" src="octocat.gif"></a> 
+
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy#readme">
     <picture>
       <source media="(prefers-color-scheme: dark)" 
         srcset="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=7&margin-w=24&margin-h=24&no-frame=true&theme=darkhub">
-      <img src="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=7&margin-w=24&margin-h=24&no-frame=true">
+      <img width="96%" src="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=7&margin-w=24&margin-h=24&no-frame=true">
     </picture>
   </a>
 </div>  
