@@ -62,7 +62,7 @@
  </a>
  <div>
    <a href="https://komarev.com/ghpvc">
-     <img src="https://komarev.com/ghpvc/?username=qoomon&color=2a2a2a">
+     <img src="https://komarev.com/ghpvc/?username=qoomon&color=3b3b3b">
    </a>
  </div>
 </div>
