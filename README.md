@@ -8,50 +8,50 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy#readme">
     <picture>
       <source media="(prefers-color-scheme: dark)" 
-        srcset="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=1&margin-w=24&margin-h=24&no-frame=true&title=MultiLanguage&theme=darkhub">
-      <img src="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=1&margin-w=24&margin-h=24&no-frame=true&title=MultiLanguage">
+        srcset="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=1&no-frame=true&title=MultiLanguage&theme=darkhub">
+      <img src="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=1&&no-frame=true&title=MultiLanguage">
     </picture>
   </a>
   <a href="https://github.com/ryo-ma/github-profile-trophy#readme">
     <picture>
       <source media="(prefers-color-scheme: dark)" 
-        srcset="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=1&margin-w=24&margin-h=24&no-frame=true&title=Stars&theme=darkhub">
-      <img src="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=1&margin-w=24&margin-h=24&no-frame=true&title=Stars">
+        srcset="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=1&no-frame=true&title=Stars&theme=darkhub">
+      <img src="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=1&no-frame=true&title=Stars">
     </picture>
   </a>
   <a href="https://github.com/ryo-ma/github-profile-trophy#readme">
     <picture>
       <source media="(prefers-color-scheme: dark)" 
-        srcset="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=1&margin-w=24&margin-h=24&no-frame=true&title=Repositories&theme=darkhub">
-      <img src="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=1&margin-w=24&margin-h=24&no-frame=true&title=Repositories">
+        srcset="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=1&no-frame=true&title=Repositories&theme=darkhub">
+      <img src="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=1&no-frame=true&title=Repositories">
     </picture>
   </a>
   <a href="https://github.com/ryo-ma/github-profile-trophy#readme">
     <picture>
       <source media="(prefers-color-scheme: dark)" 
-        srcset="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=1&margin-w=24&margin-h=24&no-frame=true&title=Issues&theme=darkhub">
-      <img src="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=1&margin-w=24&margin-h=24&no-frame=true&title=Issues">
+        srcset="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=1&no-frame=true&title=Issues&theme=darkhub">
+      <img src="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=1&no-frame=true&title=Issues">
     </picture>
   </a>
   <a href="https://github.com/ryo-ma/github-profile-trophy#readme">
     <picture>
       <source media="(prefers-color-scheme: dark)" 
-        srcset="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=1&margin-w=24&margin-h=24&no-frame=true&title=Commits&theme=darkhub">
-      <img src="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=1&margin-w=24&margin-h=24&no-frame=true&title=Commits">
+        srcset="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=1&no-frame=true&title=Commits&theme=darkhub">
+      <img src="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=1&no-frame=true&title=Commits">
     </picture>
   </a>
   <a href="https://github.com/ryo-ma/github-profile-trophy#readme">
     <picture>
       <source media="(prefers-color-scheme: dark)" 
-        srcset="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=1&margin-w=24&margin-h=24&no-frame=true&title=Followers&theme=darkhub">
-      <img src="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=1&margin-w=24&margin-h=24&no-frame=true&title=Followers">
+        srcset="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=1&no-frame=true&title=Followers&theme=darkhub">
+      <img src="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=1&no-frame=true&title=Followers">
     </picture>
   </a>
   <a href="https://github.com/ryo-ma/github-profile-trophy#readme">
     <picture>
       <source media="(prefers-color-scheme: dark)" 
-        srcset="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=1&margin-w=24&margin-h=24&no-frame=true&title=PullRequest&theme=darkhub">
-      <img src="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=1&margin-w=24&margin-h=24&no-frame=true&title=PullRequest">
+        srcset="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=1&no-frame=true&title=PullRequest&theme=darkhub">
+      <img src="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=1&no-frame=true&title=PullRequest">
     </picture>
   </a>
 </div>
