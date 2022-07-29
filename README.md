@@ -60,4 +60,9 @@
  <a href="https://www.qoomon.me">
    <img height="64" src="octocat.gif">
  </a>
+ <div>
+   <a href="https://komarev.com/ghpvc">
+     <img src="https://komarev.com/ghpvc/?username=qoomon&color=2a2a2a">
+   </a>
+ </div>
 </div>
